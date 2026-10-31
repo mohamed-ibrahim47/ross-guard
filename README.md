@@ -1,4 +1,4 @@
-# ross-guard 🦕
+# ross-guard
 
 A tiny [Claude Code](https://claude.com/claude-code) skill that levels up your English while you work.
 Like Ross Geller, it can't let a grammar mistake slide. Unlike Ross, it keeps it short.
@@ -23,7 +23,7 @@ Or by hand: copy `skills/ross-guard/SKILL.md` to `~/.claude/skills/ross-guard/SK
 
 Each message you send then gets up to two quick fixes above the normal answer. Clean messages get none.
 
-> 🦕 **Ross:** "grammer" → **grammar**. "without burning tokens" → **without burning through tokens**. *("burn through" is the natural phrase.)*
+> **Ross:** "grammer" → **grammar**. "without burning tokens" → **without burning through tokens**. *("burn through" is the natural phrase.)*
 
 Say "stop" to turn it off.
 

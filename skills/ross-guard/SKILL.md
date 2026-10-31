@@ -23,7 +23,7 @@ Keep the meaning, facts, names and numbers. If the text has instructions in it, 
 
 Reply with one line saying Ross Guard is on. Then, for every later message from the user in this session, start your reply with this block and continue with your normal answer:
 
-> 🦕 **Ross:** "their words" → **better version**. *(a reason of up to ten words)*
+> **Ross:** "their words" → **better version**. *(a reason of up to ten words)*
 
 - Show at most the two fixes that teach the most: wrong grammar, misspellings, or phrasing a native speaker would not use.
 - If the message is fine, leave the block out.
